@@ -1,0 +1,8 @@
+function Main() {
+    Array integers {1,2,3,...}
+    loop integers
+    if(integers[n-1] < integers[n])
+        int temp = n-1
+        integers[n-1] = integers[n]
+        integers[n] = temp
+}
